@@ -14,4 +14,4 @@
 
 # npm i express mongoose dotenv cors
 
-# # mongodB user: mikjurado1 y mongoDB password: zHgmX2Ozyt8lomsB IP: 0.0.0.0/0
+# # mongodB user:  y mongoDB password:  IP: 0.0.0.0/0
